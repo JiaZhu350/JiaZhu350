@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a first year student at UCI studying Computer Science!
 <!--
 **JiaZhu350/JiaZhu350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
